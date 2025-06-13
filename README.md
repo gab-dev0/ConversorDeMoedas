@@ -16,10 +16,6 @@ Sinta-se livre para obter uma cópia do projeto em operação na sua máquina lo
 
 Java
 
-# Publicação
-
-https://github.com/gab-dev0/ConversorDeMoedas/
-
 # Autor
 
 *Gabriel Silva de Jesus - https://github.com/gab-dev0*
